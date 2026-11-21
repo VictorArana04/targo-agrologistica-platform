@@ -1,0 +1,24 @@
+# Variables de entorno y secretos
+.env
+*.env
+!.env.example
+
+# Certificados, llaves SSH y credenciales
+*.pem
+*.key
+*.crt
+*credentials*
+*secret*
+
+# Volúmenes y datos persistentes locales
+postgres_data/
+n8n_data/
+caddy_data/
+caddy_config/
+
+# Archivos del sistema operativo y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
