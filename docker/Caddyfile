@@ -1,0 +1,9 @@
+# Reverse Proxy para n8n (Contenedor interno en puerto 5678)
+targopruebas.duckdns.org {
+    reverse_proxy targo-n8n:5678
+}
+
+# Reverse Proxy para Chatwoot (Servicio nativo systemd en el host)
+targochat.duckdns.org {
+    reverse_proxy host.docker.internal:3000
+}
