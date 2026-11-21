@@ -1,4 +1,4 @@
-# 🚜 TARGO — Plataforma Conversacional de Intermediación Logística Agropecuaria
+# TARGO — Plataforma Conversacional de Intermediación Logística Agropecuaria
 
 **TARGO** es una solución tecnológica desarrollada para automatizar la intermediación logística, la negociación dinámica de tarifas y la trazabilidad operativa entre pequeños y medianos productores agropecuarios y transportadores de carga en el Valle del Cauca, Colombia[cite: 1]. 
 
@@ -6,7 +6,7 @@ La plataforma opera 100% sobre **WhatsApp** sin requerir la instalación de apli
 
 ---
 
-## 👥 Equipo de Desarrollo e Investigación
+## Equipo de Desarrollo e Investigación
 * **Programa:** Ingeniería de Sistemas — Escuela de Ciencias Básicas, Tecnología e Ingeniería (ECBTI)[cite: 1]
 * **Institución:** Universidad Nacional Abierta y a Distancia (UNAD) — CEAD Palmira[cite: 1]
 * **Curso:** Proyecto de Grado (`202016907` — Grupo `52`)[cite: 1]
@@ -19,7 +19,7 @@ La plataforma opera 100% sobre **WhatsApp** sin requerir la instalación de apli
 
 ---
 
-## 🏗️ Arquitectura Tecnológica en Producción
+## Arquitectura Tecnológica en Producción
 
 El sistema se encuentra desplegado en una instancia VPS de **Oracle Cloud Infrastructure (OCI)** con sistema operativo **Ubuntu 24.04.4 LTS** sobre arquitectura **ARM64 (`aarch64`)**[cite: 1].
 
@@ -41,7 +41,7 @@ El sistema se encuentra desplegado en una instancia VPS de **Oracle Cloud Infras
 
 ---
 
-## 📂 Estructura del Repositorio
+## Estructura del Repositorio
 
 ```text
 targo-agrologistica-platform/
